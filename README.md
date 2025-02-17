@@ -32,7 +32,7 @@ data
 ### Submissions
 
 ```
-submitted
+submitted final
 ├── final_submisstion.csv
 └── submisstion_model.pth
 ```
