@@ -1,7 +1,0 @@
-params.learning_rate                                    0.00026100256506134736
-params.is_fps2048_desc170                                                 True
-params.num_layers                                                            3
-params.layer_ratio                                          0.5300733288106988
-params.batch_size                                                          128
-params.is_infomax300                                                      True
-params.dropout_rate                                                        0.5
